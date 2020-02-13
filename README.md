@@ -1,1 +1,1 @@
-# Douglas-Rachford-Algorithm-for-Phase-Retrieval-with-Background-Information
+# Douglas-Rachford-Algorithm-for-PR
